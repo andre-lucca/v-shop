@@ -1,0 +1,44 @@
+{
+    "products": {
+        "categories": [
+            {
+                "id": 1,
+                "name": "Shoes"
+            },
+            {
+                "id": 2,
+                "name": "T-Shirts"
+            },
+            {
+                "id": 3,
+                "name": "Socks"
+            }
+        ],
+        "items": [
+            {
+                "category_id": 1,
+                "id": 1,
+                "name": "Shoes 1",
+                "brand": "Amazing",
+                "price": 19000,
+                "amount": 5
+            },
+            {
+                "category_id": 2,
+                "id": 2,
+                "name": "T-Shirt 1",
+                "brand": "T-s",
+                "price": 6000,
+                "amount": 4
+            },
+            {
+                "category_id": 3,
+                "id": 3,
+                "name": "Sock 1",
+                "brand": "For feet",
+                "price": 1000,
+                "amount": 6
+            }
+        ]
+    }
+}
