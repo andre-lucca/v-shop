@@ -1,3 +1,3 @@
 # V-Shop
 
-## Loja virtual para fins educativos
+## Loja virtual para o portfólio.
